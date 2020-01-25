@@ -101,7 +101,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 344}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 35
+  controlID: 58
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 494}
   m_MaxSize: {x: 18008, y: 14044}
   vertical: 1
-  controlID: 33
+  controlID: 202
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 494}
   m_MaxSize: {x: 18008, y: 14044}
   vertical: 0
-  controlID: 34
+  controlID: 203
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 494}
   m_MaxSize: {x: 10004, y: 14044}
   vertical: 1
-  controlID: 159
+  controlID: 95
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -473,9 +473,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.4329865, y: 5.8173637, z: -87.606186}
+    m_Target: {x: 6.1486154, y: 0.08545085, z: -25.71875}
     speed: 2
-    m_Value: {x: 0.56584114, y: 4.670619, z: -86.03516}
+    m_Value: {x: 6.1486154, y: 0.08545085, z: -25.71875}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -508,9 +508,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 27.844442
+    m_Target: 52.121796
     speed: 2
-    m_Value: 23.596985
+    m_Value: 54.577797
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -655,9 +655,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: d2a9ffffe0b1ffff8eb3ffff94e6ffffd4f3ffff6afbffffe4830000cc840000
+      m_SelectedIDs: 6afbffff
+      m_LastClickedID: -1174
+      m_ExpandedIDs: 6afbffffc8560000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -720,7 +720,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/New game scenes
+    - Assets/2DGamekit/Art/Sprites/Environment
   m_ViewMode: 0
   m_StartGridSize: 16
   m_LastFolders: []
@@ -757,24 +757,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 714}
+    scrollPos: {x: 0, y: 780}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000ae310000a6370000f43900008e3a0000263d0000583d00000c4200008e4200006a4400003a4500002a4700005647000022490000bc4b0000364d0000804e00008a4e0000c24f00008c530000
+    m_ExpandedIDs: ffffffff00000000ae3100001a340000a6370000b2390000f43900008e3a0000563d00000c4200008e4200003a4500002a4700005647000022490000b04b0000bc4b0000364d00008a4e0000c24f0000d85000008c530000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: JonasScene
-      m_OriginalName: JonasScene
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 21288
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 12}
     m_SearchString: 
