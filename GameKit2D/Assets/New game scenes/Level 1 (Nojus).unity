@@ -18552,10 +18552,40 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 2
       m_ColliderType: 1
+  - first: {x: 47, y: 2, z: 0}
+    second:
+      m_TileIndex: 0
+      m_TileSpriteIndex: 5
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 2
+      m_ColliderType: 1
   - first: {x: 48, y: 2, z: 0}
     second:
       m_TileIndex: 0
       m_TileSpriteIndex: 10
+<<<<<<< HEAD
+=======
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 2
+      m_ColliderType: 1
+  - first: {x: 49, y: 2, z: 0}
+    second:
+      m_TileIndex: 0
+      m_TileSpriteIndex: 10
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 2
+      m_ColliderType: 1
+  - first: {x: 50, y: 2, z: 0}
+    second:
+      m_TileIndex: 0
+      m_TileSpriteIndex: 6
+>>>>>>> parent of 53531e43... finished level
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -18651,18 +18681,48 @@ Tilemap:
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
+<<<<<<< HEAD
       m_TileFlags: 1
       m_ColliderType: 1
   - first: {x: 57, y: -4, z: 0}
+=======
+      m_TileFlags: 2
+      m_ColliderType: 2
+  - first: {x: 59, y: 3, z: 0}
+>>>>>>> parent of 53531e43... finished level
     second:
       m_TileIndex: 1
       m_TileSpriteIndex: 63
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
+<<<<<<< HEAD
       m_TileFlags: 1
       m_ColliderType: 1
   - first: {x: 58, y: -4, z: 0}
+=======
+      m_TileFlags: 2
+      m_ColliderType: 2
+  - first: {x: 60, y: 3, z: 0}
+    second:
+      m_TileIndex: 0
+      m_TileSpriteIndex: 30
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 2
+      m_ColliderType: 2
+  - first: {x: 61, y: 3, z: 0}
+    second:
+      m_TileIndex: 0
+      m_TileSpriteIndex: 30
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 2
+      m_ColliderType: 2
+  - first: {x: 62, y: 3, z: 0}
+>>>>>>> parent of 53531e43... finished level
     second:
       m_TileIndex: 1
       m_TileSpriteIndex: 63
@@ -18886,6 +18946,7 @@ Tilemap:
       m_ColliderType: 1
   - first: {x: 76, y: -4, z: 0}
     second:
+<<<<<<< HEAD
       m_TileIndex: 1
       m_TileSpriteIndex: 63
       m_TileMatrixIndex: 0
@@ -18903,6 +18964,25 @@ Tilemap:
       m_TileFlags: 1
       m_ColliderType: 1
   - first: {x: 78, y: -4, z: 0}
+=======
+      m_TileIndex: 0
+      m_TileSpriteIndex: 33
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 2
+      m_ColliderType: 0
+  - first: {x: 60, y: 4, z: 0}
+    second:
+      m_TileIndex: 0
+      m_TileSpriteIndex: 39
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 2
+      m_ColliderType: 0
+  - first: {x: 61, y: 4, z: 0}
+>>>>>>> parent of 53531e43... finished level
     second:
       m_TileIndex: 1
       m_TileSpriteIndex: 63
@@ -25881,6 +25961,7 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
+<<<<<<< HEAD
   - first: {x: 12, y: 8, z: 0}
     second:
       m_TileIndex: 1
@@ -39455,11 +39536,16 @@ Tilemap:
 =======
 =======
 >>>>>>> parent of 53531e43... finished level
+=======
+>>>>>>> parent of 53531e43... finished level
   m_AnimatedTiles: {}
   m_TileAssetArray:
   - m_RefCount: 1460
     m_Data: {fileID: 11400000, guid: c0a72b2f2922a4241ba1735d8082c260, type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 53531e43... finished level
+=======
 >>>>>>> parent of 53531e43... finished level
 =======
 >>>>>>> parent of 53531e43... finished level
@@ -39468,6 +39554,7 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - m_RefCount: 0
@@ -39496,6 +39583,8 @@ Tilemap:
   - m_RefCount: 0
     m_Data: {fileID: 0}
 =======
+=======
+>>>>>>> parent of 53531e43... finished level
   - m_RefCount: 3
     m_Data: {fileID: 21300082, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
   - m_RefCount: 6
@@ -39710,7 +39799,11 @@ Tilemap:
   m_TileMatrixArray:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - m_RefCount: 2949
+=======
+  - m_RefCount: 1460
+>>>>>>> parent of 53531e43... finished level
 =======
   - m_RefCount: 1460
 >>>>>>> parent of 53531e43... finished level
@@ -39737,7 +39830,11 @@ Tilemap:
   m_TileColorArray:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - m_RefCount: 2949
+=======
+  - m_RefCount: 1460
+>>>>>>> parent of 53531e43... finished level
 =======
   - m_RefCount: 1460
 >>>>>>> parent of 53531e43... finished level
@@ -39788,6 +39885,7 @@ CompositeCollider2D:
   m_ColliderPaths:
   - m_Collider: {fileID: 1645988794}
     m_ColliderPaths:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     - - X: 969039913
@@ -40228,6 +40326,8 @@ CompositeCollider2D:
       - {x: 49.951023, y: 2.0677907}
       - {x: 50.032032, y: 2.0272872}
 =======
+=======
+>>>>>>> parent of 53531e43... finished level
 =======
 >>>>>>> parent of 53531e43... finished level
     - - X: 609372458
@@ -41240,6 +41340,7 @@ CompositeCollider2D:
         Y: 40018496
     - - X: 291619631
 <<<<<<< HEAD
+<<<<<<< HEAD
         Y: 39959900
       - X: 291630537
         Y: 40008537
@@ -41263,10 +41364,24 @@ CompositeCollider2D:
         Y: 39998422
       - X: 291568150
         Y: 39959900
+=======
+        Y: 39959900
+      - X: 291630537
+        Y: 40008537
+      - X: 291589601
+        Y: 40030249
+      - X: 291550399
+        Y: 39998422
+      - X: 291568150
+        Y: 39959900
+>>>>>>> parent of 53531e43... finished level
     - - X: 609385893
         Y: 29974900
       - X: 609383756
         Y: 39959900
+<<<<<<< HEAD
+>>>>>>> parent of 53531e43... finished level
+=======
 >>>>>>> parent of 53531e43... finished level
       - X: 589414940
         Y: 39939194
@@ -41282,11 +41397,19 @@ CompositeCollider2D:
         Y: 26673973
       - X: 508188406
 <<<<<<< HEAD
+<<<<<<< HEAD
         Y: 27519164
       - X: 489518129
         Y: 27513640
       - X: 489513754
         Y: 27519164
+=======
+        Y: 27519164
+      - X: 489518129
+        Y: 27513640
+      - X: 489513754
+        Y: 27519164
+>>>>>>> parent of 53531e43... finished level
 =======
         Y: 27519164
       - X: 489518129
@@ -41307,9 +41430,15 @@ CompositeCollider2D:
       - X: 480148073
         Y: 20116620
 <<<<<<< HEAD
+<<<<<<< HEAD
       - X: 489520100
         Y: 20126162
       - X: 489520100
+=======
+      - X: 489520100
+        Y: 20126162
+      - X: 489520100
+>>>>>>> parent of 53531e43... finished level
 =======
       - X: 489520100
         Y: 20126162
@@ -41979,6 +42108,9 @@ CompositeCollider2D:
       - {x: 63.936485, y: -5.995544}
       - {x: 63.93803, y: -6.9925103}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 53531e43... finished level
+=======
 >>>>>>> parent of 53531e43... finished level
 =======
 >>>>>>> parent of 53531e43... finished level
