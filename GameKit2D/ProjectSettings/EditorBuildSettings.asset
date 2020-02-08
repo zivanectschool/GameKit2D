@@ -36,6 +36,6 @@ EditorBuildSettings:
     path: Assets/New game scenes/Level 1 (Nojus).unity
     guid: 98d55f66b9442a34abaf68dcb971517f
   - enabled: 1
-    path: Assets/Level2(Emilija).unity
+    path: Assets/Elygis.unity
     guid: c382629119bdd4a7eb2f70140481dcbc
   m_configObjects: {}
