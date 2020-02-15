@@ -7,6 +7,8 @@ TagManager:
   - Enemy
   - Spawn
   - bullet
+  - Bottom
+  - Ellen
   layers:
   - Default
   - TransparentFX

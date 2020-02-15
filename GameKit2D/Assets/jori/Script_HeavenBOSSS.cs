@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Script_HeavenBOSSS : MonoBehaviour
 {
@@ -12,6 +13,18 @@ public class Script_HeavenBOSSS : MonoBehaviour
 
     [SerializeField]
     private int health;
+
+    [SerializeField]
+    private GameObject player;
+
+    [SerializeField]
+    private float speed;
+
+
+    private float waitTime;
+    private float chargeTime;
+
+    private float index = 1f;
 
     // Start is called before the first frame update
     void Start()
@@ -28,7 +41,22 @@ public class Script_HeavenBOSSS : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (health <= 0) Destroy(this.gameObject);
+        Vector3 targetPosition = player.transform.position;
+
+        if (waitTime <= 0)
+        {
+            transform.position = Vector2.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
+            waitTime = chargeTime;;
+        }
+        else
+        {
+            waitTime -= Time.deltaTime;
+        }
+
+        if (health <= 0)
+        {
+            SceneManager.LoadScene("JonasScene");
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -36,6 +64,10 @@ public class Script_HeavenBOSSS : MonoBehaviour
         if (collision.gameObject.CompareTag("bullet"))
         {
             DecreaseHealth(1);
+        }
+        else if (collision.gameObject.CompareTag("Ellen"))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 
