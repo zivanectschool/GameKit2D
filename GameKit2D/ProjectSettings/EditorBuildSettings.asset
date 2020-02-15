@@ -33,6 +33,9 @@ EditorBuildSettings:
     path: Assets/JonasScene.unity
     guid: 8003949f3d0cc42bc829f5518198657a
   - enabled: 1
+    path: Assets/MediumPlace.unity
+    guid: 4b374b2a8200f421e9cd2a6a3d95c1d2
+  - enabled: 1
     path: Assets/New game scenes/Scene_HeavenScene (Joris).unity
     guid: faf771d3e0a554e28b98debde399170d
   - enabled: 1
